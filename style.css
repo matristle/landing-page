@@ -270,7 +270,7 @@ a {
     font-style: italic;
     font-weight: 300;
     font-size: 38px;
-    color: #1F2937;
+    color: aliceblue;
     max-width: 800px;
     margin: 0; 
 }
@@ -278,6 +278,8 @@ a {
 .quote-author {
     margin: 0;
     font-size: 30px;
+    color: aliceblue;
+
 }
 
 
