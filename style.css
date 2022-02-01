@@ -244,20 +244,12 @@ a {
     width: 100%;
 }
 
-.quote-main {
-    display: flex;
-    flex-direction: column;
-    padding: 150px;
-    justify-content: center;    
-    align-items: flex-start;
-    width: 100%;
-}
-
 .quote-container {
     display: flex;
     flex-direction: column;
-    gap: 80px;
-    padding-left: 50px;   
+    gap: 120px;
+    padding: 150px;
+    padding-right: 100px;
 }
 
 .clouds {
@@ -271,7 +263,6 @@ a {
     font-size: 38px;
     color: aliceblue;
     max-width: 800px;
-    max-height: 800px;
     margin: 0; 
 }
 
